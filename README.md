@@ -1,7 +1,6 @@
 # Welcome to Math-Utility Repository
 
-### You will find this repo a Java project with the following
-features included
+### You will find this repo a Java project with the following features included
 
 
 * A demonstration of using static to create a custom-library
